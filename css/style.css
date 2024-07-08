@@ -37,4 +37,42 @@ font-weight: 400;
 margin-top: 177px;
 
 }
-/* First page */
+/* First page  end*/
+
+/* Second page(sp) Start */
+.sp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sp .sp-heading  {
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+margin-top:120px ;
+margin-bottom: 48px;
+}
+.sp .sp-title {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+ .sp .sp-heading2{
+    color: rgb(7, 2, 17);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+margin-top: 19px;
+margin-bottom: 48px;
+ }
+
+.sp-img-container{
+    width: 802.9px;
+height: 500px;
+    background-image: url("../images/New\ Year\ Photo.png");
+    margin: 0px auto;
+    margin-bottom: 120px;
+}
+/* Second page(sp) End */
