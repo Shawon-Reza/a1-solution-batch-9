@@ -4,6 +4,15 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    border: none;
+}
+
+.common-btn {
+    border-radius: 8px;
+background: rgb(255, 0, 0);
+width: 167px;
+height: 56px;
+color:rgb(255, 255, 255) ;
 }
 
 /* First page */
@@ -128,8 +137,56 @@ font-size: 20px;
 font-weight: 700;
 background-color: rebeccapurple;
 }
-
-
-
-
 /* third page(tp) Start */
+
+
+
+/* Fourth Page(fp) Start Here */
+.fp{
+    border-radius: 16px;
+background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+width: 1320px;
+height: 482px;
+margin: 0px auto;
+padding: 100px 386px 110px 385px;
+margin-bottom: 120px;
+
+
+
+}
+.fp-container{
+    width: 549px;
+    height: 272px;
+display: flex;
+flex-direction: column;
+align-items: center;
+margin: 0px auto;
+/* gap: 104px; */
+
+
+
+}
+.fp-container-text{
+    font-size: 32px;
+font-weight: 600;
+color: rgb(7, 2, 17);
+margin: 0px auto;
+gap: 50px;
+}
+.fp-container-text span{
+    font-size: 32px;
+    font-weight: 600;
+    color: rgb(255, 0, 0);
+    
+}
+
+.fp-container button {
+    /* margin-top: 110px; */
+    /* margin-bottom: 0px; */
+    position: relative;
+    top: 40px;
+}
+.fp-container .margin {
+    margin-top: 20px;
+}
+/* Fourth Page(fp) End Here */
