@@ -190,3 +190,75 @@ gap: 50px;
     margin-top: 20px;
 }
 /* Fourth Page(fp) End Here */
+
+/* Fift page(p4) start */
+.p4{
+    width: 1320px;
+height: 463px;
+margin: 0px auto;
+display: flex;
+justify-content: space-between;
+margin: 0px 140px;
+margin-bottom: 120px;
+
+}
+.p4-container1{
+   display: flex;
+   flex-direction: column;
+   column-gap:15px ;
+   width: 393px;
+   height: 255px;
+   margin: 104px 70px 104px 0px;
+}
+.p4-container2{
+    width: 463px;
+height: 463px;
+margin-right: 118px;
+padding: 49.02px;
+background-image: url("../images/Ellipse\ 2.png");
+}
+.p4-container3{
+    margin-top: 112px;
+}
+.p4-c1-title{
+    font-size: 24px;
+font-weight: 500;
+color: rgb(255, 0, 0);
+}
+.p4-c1-heading{
+    color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+margin: 16px 0px 22px 0px;
+}
+.color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;{
+    color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+}
+.p4-c3-heading{
+    font-size: 48px;
+font-weight: 700;
+color: rgb(255, 0, 0);
+
+}
+.p4-c3-description{
+    color: rgba(7, 2, 17, 0.6);
+font-size: 20px;
+font-weight: 400;
+margin: 16px 0px 46px 0px;
+}
+.p4-c3-img-container{
+    width: 140px;
+height: 132.79px;
+    
+}
+.p4-c3-img-container img {
+    width: 100%;
+    height: 100%;
+}
