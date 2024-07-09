@@ -76,3 +76,60 @@ height: 500px;
     margin-bottom: 120px;
 }
 /* Second page(sp) End */
+
+/* third page(tp) Start */
+.tp{
+    display: flex;
+    background-image: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),url("../images/Vectorrr.png");
+    border-radius: 16px;
+    width: 1320px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0px auto;
+    margin-bottom: 120px;
+}
+.tp-text-container {
+    width: 697px;
+    margin-left: 126px;
+
+}
+    
+.tp-text-container-header{
+    font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+color:rgb(255, 255, 255) ;
+margin-top: 126px;
+margin-bottom: 24px;
+}
+
+.tp-text-container-description{
+    color: rgba(255, 255, 255, 0.8);
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 48px;
+}
+.tp-img-container{
+    width: 349.16px;
+    height: 464.65px;
+    margin-top: 68px;
+    margin-right: 108px;
+}
+.tp-img-container img {
+width: 100%;
+height: 100%;
+}
+.tp-text-container-btn{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+background-color: rebeccapurple;
+}
+
+
+
+
+/* third page(tp) Start */
