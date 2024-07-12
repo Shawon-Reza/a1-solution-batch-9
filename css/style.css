@@ -368,6 +368,8 @@ height: 450px;
 .p7-img-container{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    gap: 24px;
+    /* gap: 24px; */
+    /* column-gap: 50px; */
+    row-gap: 50px;
     border: 2px solid black;
 }
